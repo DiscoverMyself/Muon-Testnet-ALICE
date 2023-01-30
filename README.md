@@ -64,7 +64,7 @@ go to https://alice.muon.net/join.
 2. Switch Network to BSC Testnet
 3. Mint Faucet (Need BSC Testnet as fees. request here:https://testnet.bnbchain.org/faucet-smart)
 4. Approve to spend the token
-5. Stake the token to your Node (Fill Node address and peerID with yours that displayed on step 2 before)
+5. Stake the token to your Node (Fill Node address and peerID with yours that displayed on **step 2** before)
 <br>
 <br>
 <br>
