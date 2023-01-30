@@ -53,6 +53,7 @@ http://<server-ip>:8000/status
 <br>
 <br>
 **The result should look like this:**
+<br>
 ![image](https://user-images.githubusercontent.com/78480857/215552389-6478c7c7-b635-44d2-8e9b-43ba3bc88471.png)
 
 # 3. Adding Node to the Network
