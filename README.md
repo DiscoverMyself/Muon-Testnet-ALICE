@@ -46,13 +46,13 @@ docker-compose up -d
 ```
 
 # 2. Check your Node
-**If this is run successfully, the node's status can be viewed by opening the following address in your browser: 
+**If this is run successfully, the node's status can be viewed by opening the following address in your browser:** 
 ```
 http://<server-ip>:8000/status
 ```
 <br>
 <br>
-**The result should look like this:
+**The result should look like this:**
 ![image](https://user-images.githubusercontent.com/78480857/215552389-6478c7c7-b635-44d2-8e9b-43ba3bc88471.png)
 
 # 3. Adding Node to the Network
@@ -67,7 +67,7 @@ go to https://alice.muon.net/join.
 <br>
 <br>
 <br>
-**Now Check again your Node, it should being Online
+**Now Check again your Node, it should being Online:**
 ```
 http://<server-ip>:8000/status
 ```
