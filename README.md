@@ -69,8 +69,10 @@ go to https://alice.muon.net/join.
 <br>
 <br>
 Now Check again your Node, it should being Online:
+
 ```
 http://<server-ip>:8000/status
 ```
+
 <img src="https://user-images.githubusercontent.com/78480857/215553662-0bf40a6b-9487-4e68-a5c2-ae5cf907f0d2.png">
 
