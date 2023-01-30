@@ -54,7 +54,7 @@ http://<server-ip>:8000/status
 <br>
 **The result should look like this:**
 <br>
-![image](https://user-images.githubusercontent.com/78480857/215552389-6478c7c7-b635-44d2-8e9b-43ba3bc88471.png)
+<img src="https://user-images.githubusercontent.com/78480857/215552389-6478c7c7-b635-44d2-8e9b-43ba3bc88471.png">
 
 # 3. Adding Node to the Network
 ![image](https://user-images.githubusercontent.com/78480857/215552593-588f6a05-e3cc-4473-bbe9-4ec4f18fde97.png)
@@ -72,5 +72,5 @@ go to https://alice.muon.net/join.
 ```
 http://<server-ip>:8000/status
 ```
-![image](https://user-images.githubusercontent.com/78480857/215553662-0bf40a6b-9487-4e68-a5c2-ae5cf907f0d2.png)
+<img src="https://user-images.githubusercontent.com/78480857/215553662-0bf40a6b-9487-4e68-a5c2-ae5cf907f0d2.png">
 
